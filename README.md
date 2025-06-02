@@ -29,4 +29,5 @@ The app is trained on a dataset of news headlines and authors. It processes the 
 
 ---
 
+![image](https://github.com/user-attachments/assets/13d7ad7c-d96e-49d6-9433-205d0f12278b)
 
