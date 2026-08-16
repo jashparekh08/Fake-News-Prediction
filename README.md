@@ -1,7 +1,6 @@
 # 📰 Fake News Detector 🔍
 
-A simple machine learning web app built with **Streamlit** that predicts whether a news article is **Real** or **Fake**, using Natural Language Processing (NLP) and a Logistic Regression model.
-
+A simple **Streamlit-based** machine learning web application that uses **NLP techniques** and **Logistic Regression** to classify news articles as either **Real or Fake**.
 ---
 
 ## 🚀 Live Demo
